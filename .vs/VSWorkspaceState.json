@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\static",
+    "\\app\\static\\app",
+    "\\app\\static\\app\\scripts",
+    "\\app\\templates",
+    "\\app\\templates\\app",
+    "\\DjangoWebProject1"
+  ],
+  "SelectedNode": "\\app\\static\\app\\scripts\\forcart.js",
+  "PreviewInSolutionExplorer": false
+}
